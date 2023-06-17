@@ -1,15 +1,9 @@
-/******* Bootstrap Theming ********/
-/*!
- * Bootstrap v4.5.3 (https://getbootstrap.com/)
- * Copyright 2011-2020 The Bootstrap Authors
- * Copyright 2011-2020 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+
 :root {
-  --blue: #007bff;
-  --indigo: #6610f2;
-  --purple: #6f42c1;
-  --pink: #e83e8c;
+  /* --blue: #964b00;
+  --indigo: #004a94;
+  --purple: #ae5700;
+  --pink: #e8;
   --red: #dc3545;
   --orange: #fd7e14;
   --yellow: #ffc107;
@@ -26,7 +20,7 @@
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #ffffff;
-  --dark: #343a40;
+  --dark: #343a40; */
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -152,13 +146,13 @@ sup {
 }
 
 a {
-  color: #0BCEAF;
+  color: #ae5700 ;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #078571;
+  color: #004a94 !important;
   text-decoration: underline;
 }
 
